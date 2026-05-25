@@ -39,7 +39,7 @@ When the cursor leaves the screen, the animation switches to an autonomous loopi
 # 🌐 Live Demo
 
 ```txt
-https://sea-dragon-c9yjwkgnf-herry-projects.vercel.app/
+https://sea-dragon-cskgxanmo-herry-projects.vercel.app/
 ```
 
 ---
